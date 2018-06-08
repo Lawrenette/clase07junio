@@ -1,0 +1,33 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.fondo {
+	color:white;
+	background-image: url(images/imagen-fondo.jpg);
+	text-align: center;
+	background-size: 100% 100%;
+}
+
+.boton-azul {
+	background-color: #337AB7;
+	color: white;
+}
+.boton-verde {
+	background-color: #5CB85C;
+	color: white;
+}
+
+.jumbotron {
+	border-radius: 0; 
+}
+
+.center {
+	margin-top: 50px;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 100px;
+	background-color: #262626;
+	border: 1px solid #dddddd;
+	color: white;
+}
